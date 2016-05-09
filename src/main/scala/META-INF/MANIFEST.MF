@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: info.xiaohei.www.spark.examples.decisiontree.RunDecisionTr
+ ee
+
