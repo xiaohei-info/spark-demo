@@ -44,7 +44,7 @@ object RunKMeans {
 
     //取最好的k值训练模型
     val kmeans = new KMeans()
-    kmeans.setK(1)
+    kmeans.setK(130)
     kmeans.setEpsilon(1.0e-6)
     kmeans.setRuns(10)
     val model = kmeans.run(data)
